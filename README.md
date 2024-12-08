@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align: center; color: #fff;"> Languages and Skills </h1>
 
-<div style="display: flex; gap: 10px; align-content: center; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 10px; align-content: center; justify-content: center; flex-wrap: wrap; margin-left: auto;">
     <img alt="Amazon Web Services" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30px"/>
     <img alt="Angularjs" title="Angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="30px"/>
     <img alt="Angular Material" title = "Angular Material" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" width = "30px"/>
