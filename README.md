@@ -1,6 +1,16 @@
+<div style="position: relative; padding-top: 40px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
+    <img align="center" alt="TaintedPhoenix" src="assets/TaintedPhoenix_transparent.png" style="position: absolute; margin-top: 50px; margin-left:-5px"/>
+    <img alt="Waving background" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000008,100:000000&reversal=false&section=header" />
+</div>
+
+<p style="color: #ffffff;">Hi! My name is Antony Rinaldi (Known online as TaintedPhoenix). I am a high school senior who is interested in just about all things computers.</p>
+
+<p style="color: #ffffff;"> I've worked on a large variety of projects, most of which created in response to problems I found annoying enough to actually do something about. No two projects are alike! I've done all types of development: Web, App, Game, Bot, you name it. Regardless of what i'm working with, I like to create things that I find either useful or thoroughly enjoyable, and nothing less.
+</p>
+
 <h1 align="center" style="text-align: center; color: #fff;"> Languages and Skills </h1>
 
-<div align="center" style="display: flex; gap: 10px; align-content: center; justify-content: center; flex-wrap: wrap; margin-left: auto;">
+<div align="center" style="display: flex; gap: 15px; align-content: center; justify-content: center; flex-wrap: wrap; margin-left: auto;">
     <img alt="Amazon Web Services" title="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30px"/>
     <img alt="Angularjs" title="Angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="30px"/>
     <img alt="Angular Material" title = "Angular Material" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" width = "30px"/>

@@ -1,5 +1,7 @@
-Roblox Icon => create.roblox.com
-All other icons => devicons.dev
+Banner/Logo => Me!
+Waving banner background => https://github.com/kyechan99/capsule-render/tree/master
+Roblox Studio Icon => https://create.roblox.com
+All other icons => https://devicons.dev
 
-Inspiration:
-viv511
+(Major) Inspiration:
+https://github.com/viv511
