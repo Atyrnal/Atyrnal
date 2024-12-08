@@ -1,6 +1,6 @@
 <div style="position: relative; padding-top: 40px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
     <img align="center" alt="TaintedPhoenix" src="assets/TaintedPhoenix_transparent.png" style="position: absolute; margin-top: 50px; margin-left:-5px"/>
-    <img alt="Waving background" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000008,100:000000&reversal=false&section=header" />
+    <img style="position: absolute;" alt="Waving background" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000008,100:000000&reversal=false&section=header" />
 </div>
 
 <p style="color: #ffffff;">Hi! My name is Antony Rinaldi (Known online as TaintedPhoenix). I am a high school senior who is interested in just about all things computers.</p>
