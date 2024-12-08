@@ -1,5 +1,5 @@
 <div style="padding-top: 40px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
-    <img align="center" alt="TaintedPhoenix" src="assets/TaintedPhoenix_transparent.png"/>
+    <img align="center" alt="TaintedPhoenix" src="assets/TaintedBanner.svg"/>
 </div>
 
 <p style="color: #ffffff;">Hi! My name is Antony Rinaldi (Known online as TaintedPhoenix). I am a high school senior who is interested in just about all things computers.</p>
