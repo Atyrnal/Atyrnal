@@ -1,8 +1,8 @@
 <div style="padding-top: 40px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
-    <img align="center" alt="TaintedPhoenix" src="assets/TaintedBanner.svg"/>
+    <img align="center" alt="Atyrnal" src="assets/TaintedBanner.svg"/>
 </div>
 
-<p style="color: #ffffff;">Hi! My name is Antony Rinaldi (Known online as TaintedPhoenix). I am a high school senior who is interested in just about all things computers.</p>
+<p style="color: #ffffff;">Hi! My name is Antony Rinaldi (Known online as Atyrnal). I am a rising freshman at UMass Amherst who is interested in just about all things computers.</p>
 
 <p style="color: #ffffff;"> I've worked on a large variety of projects, most of which created in response to problems I found annoying enough to actually do something about. No two projects are alike! I've done all types of development: Web, App, Game, Bot, you name it. Regardless of what i'm working with, I like to create things that I find either useful or thoroughly enjoyable, and nothing less.
 </p>
